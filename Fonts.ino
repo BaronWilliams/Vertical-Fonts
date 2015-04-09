@@ -1,3 +1,4 @@
+#include "font7x8.h"
 #include "font11x16.h"
 #include "font3x6.h"
 #include "font5x7.h"

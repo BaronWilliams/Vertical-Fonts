@@ -32,6 +32,8 @@ extern "C" void __cxa_pure_virtual() {;}
 #include <font3x6.h>
 #include <font5x7.c>
 #include <font5x7.h>
+#include <font7x8.c>
+#include <font7x8.h>
 #include <font9x16.c>
 #include <font9x16.h>
 #include <fontStruct.h>
