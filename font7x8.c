@@ -116,7 +116,7 @@ PROGMEM static const uint8_t fontData7x8[FONT_CHARS][FONT_WIDTH]= {
  *	Font Size: 7x8 (+spacing=8x8)
  *	Characters: 95 (ASCII 32-126).
  *	Bit format: vertical
- *	Memory: 665 bytes (96x7)
+ *	Memory: 665 bytes (95x7)
  */
 PROGMEM const fontStruct font7x8 = {
 	(byte *) fontData7x8,
