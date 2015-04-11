@@ -5,7 +5,7 @@ This is a collection of bitmap fonts designed for small displays. These are inte
 
 The fonts are given as C source code with header files.
 
-The font bitmaps are designed to be stored if flash using PROGMEM which saves valuable SRAM on an Arduino. On an Arduino Micro, transfering data from flash to SRAM is extremely fast. There's little advantage to storing the font in SRAM.
+The font bitmaps are designed to be stored in flash using PROGMEM which saves valuable SRAM on an Arduino. On an Arduino Micro, transfering data from flash to SRAM is extremely fast. There's little advantage to storing the font in SRAM.
 
 Included in the code is Font.h and Font.cpp, containing the C++ Font class that has methods allowing easy access to font data stored in flash. For example:
 
